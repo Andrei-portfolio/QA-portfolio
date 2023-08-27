@@ -19,7 +19,7 @@
 ``   
 ``  
 ``   
-! [навыки и умения](https://www.flaticon.com/ru/free-icon/skills_1979441?term=навыки&page=1&position=15&origin=tag&related_id=1979441)
+! [навыки и умения](https://github.com/)
 
 
 
