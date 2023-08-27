@@ -19,7 +19,7 @@
 ``   
 ``  
 ``   
-! [навыки и умения](https://github.com/)
+! [навыки и умения](https://github.com/Andrei-portfolio/QA-portfolio/upload/main)
 
 
 
